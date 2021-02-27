@@ -1,1 +1,1 @@
-# Pyschology-experiment
+# Ambiguity Aversion experiment
